@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.llms import OpenAIs
+from langchain.llms import OpenAI
 import webbrowser
 
 st.title('🦜🔗 Quickstart App')
